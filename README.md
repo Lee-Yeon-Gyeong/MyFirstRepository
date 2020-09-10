@@ -1,5 +1,5 @@
-# MyFirst_Repository
+# MyFirstRepository
 
 Hello My name is YeonGyeong.
 
-<img width="" height="" src="./png/coin choco.png">
+<img width="" height="" src="./png/coin choco.PNG"></img>
