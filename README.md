@@ -25,3 +25,7 @@
    <img width="" height="" src="./png/9주차_img2.PNG"></img>
    <img width="" height="" src="./png/9주차_img2_넓이.PNG"></img>
    <img width="" height="" src="./png/9주차_img2_높이.PNG"></img>
+   
+   ### 10주차 과제
+   <img width="" height="" src="./png/10주차_1.PNG"></img>
+   <img width="" height="" src="./png/10주차_2.PNG"></img>
